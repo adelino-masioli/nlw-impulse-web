@@ -30,4 +30,4 @@ Requirements
 
 
 ### Developer
-Adelino Masioli adelinomasioli@gmail.com Copyright (c) 2022
+Adelino Masioli adelinomasioli@gmail.com - 2022
